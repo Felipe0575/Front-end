@@ -1,0 +1,51 @@
+    .img {
+    height: 600px;
+    position: absolute; top: 150px; left: 100px;
+    border-radius: 100px;
+
+}
+    .img2 {
+        height: 100px;
+        position: absolute; top: 620px; left: 1460px;
+        border-radius: 20px;
+}
+    .img3 {
+        height: 100px;
+        position: absolute; top: 620px; left: 1270px;
+        border-radius: 20px;
+}
+    .img4 {
+        height: 60px;
+        position: absolute; top: 800px; left: 1620px;
+}
+
+    .teste {
+    margin-top: 860px;
+}
+    .title {
+        position: absolute; top: 150px; left: 1300px;
+        font-size: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        overflow: hidden;
+        white-space: nowrap;
+        }
+
+    .text {
+        position: absolute; top: 300px; left: 1200px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 25px;
+        color: white;        
+}
+    body {
+        background-color: black;
+}
+    button {
+        background-color: black;
+        color: white;
+        position: absolute; top: 500px; left: 1340px;
+        border-color: white;
+        height: 40px;
+        width: 230px;
+        border-radius: 12px;
+} 

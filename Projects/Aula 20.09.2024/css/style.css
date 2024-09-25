@@ -1,0 +1,42 @@
+body {
+    background-color: white
+}
+.menu{
+    background-color: rgb(238, 154, 154);
+    height: 80px;
+    width: 100%;
+    
+}
+.principal {
+    background-color: rgb(238, 154, 154);
+    color: white    ;
+    height: 500px;
+    width: 100%;
+    display: flex; /* Display até justify alinhou o texto para o meio */
+    align-items: center;
+    justify-content: center;
+}
+.principal h1{
+    font-family: 'RedFive', sans-serif;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.tabela {
+    height: 200px;
+    background-color: black;
+    width: 500px;
+}
+.formulario {
+    height: fit-content
+    background-color: white;
+    width: 500px;
+}
