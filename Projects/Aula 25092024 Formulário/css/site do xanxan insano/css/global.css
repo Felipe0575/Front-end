@@ -1,0 +1,39 @@
+body{
+    background-color: #fdf0d5;
+}
+.menu{
+    background-color: #003049;
+    height: 60px;
+    width: 100%;
+}
+.principal{
+    background-color: #669bbc;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.principal h1{
+    font-family: 'Simpsonfont', sans-serif;
+    font-size: 62px;                                                
+}
+.rodape{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+}
+.tabela{
+    height: fit-content;
+    width: 550px;
+    background-color: #003049;
+}
+.formulario{
+    height: fit-content;
+    width: 550px;
+    background-color: #003049;
+    color: #fdf0d5;
+    padding: 30px;
+}
